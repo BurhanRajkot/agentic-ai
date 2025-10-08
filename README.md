@@ -1,4 +1,4 @@
-# Agentic AI
+# Python AI agent 
 
 ![Python](https://img.shields.io/badge/python-3.13-blue?logo=python)
 ![License](https://img.shields.io/badge/license-MIT-green)
